@@ -574,7 +574,7 @@ main{
 
 .services > .service:nth-child(2)::before{
     content: "";
-    background-image: url("images/tiet-kiem-tien-mua-nha-trong-5-nam-1200x900-2.jpg");
+    background-image: url(/images/tiet-kiem-tien-mua-nha-trong-5-nam-1200x900-2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
